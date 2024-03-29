@@ -26,7 +26,7 @@ The data I used Hails from Luke Barousse (https://www.lukebarousse.com/sql) Whic
 
 # -- The Analysis --
 
-### Question 1 -  What were the top paying Data Analyst positions in Tampa Bay area?
+### -QUESTION 1 -  What were the top paying Data Analyst positions in Tampa Bay area?
 
 First, I wanted to determine what the top paying jobs were for Data Analysts in the Tampa Bay area. This really prompted me to dive deeper into the reasons why these positions garnered the salary that they earned.
 
@@ -62,7 +62,7 @@ This answered my first question, great! But it wasn't necessarily helpful toward
 
 
 
-### Question 2 - What skills are required for these positions?
+### -QUESTION 2 - What skills are required for these positions?
 
 The query below involved extracting data from two tables using a Left Join in order to match skills to each position listed from question 1. Doing this would allow me to visualize what skills are associated with the top paying jobs.
 
@@ -103,7 +103,7 @@ This data allowed me to visualize which skills are related to each position, giv
 
 
 
-### Question 3 - What skills are most in demand for Data Analyst positions?
+### -QUESTION 3 - What skills are most in demand for Data Analyst positions?
 
 Doing some more digging (and a little more SQL coding) I came up with a way to extract what skills were required for jobs from the previous result set. Using that data i would be able to aggregate which skills are most in demand for Data Analysts. 
 
@@ -131,7 +131,7 @@ Now that I knew what skills were the most in demand for the job market, I began 
 
 
 
-### Question 4 - Which skills are associated with higher salaries?
+### -QUESTION 4 - Which skills are associated with higher salaries?
 
 At this point I understood what I was looking for, it seemed logical to know what skills would be correlated with the highest salaries for Data Analysts. These skills would be something I could strive to improve upon in order to be proficient and an asset within the industry. 
 
@@ -160,7 +160,7 @@ At this point I thought that I would be done, my understanding of the job market
 
 
 
-### Question 5 - What are the optimal skills to learn or improve upon?
+### -QUESTION 5 - What are the optimal skills to learn or improve upon?
 
 This was the question...The crux of what I was looking for! Sure, its good to know what skills receive higher salaries but that doesn't help me in the end. What would truly benefit me in the end is to have some insight regarding what skills would be most beneficial for me to learn or improve upon.  The query below involved me taking the queries from questions 3 and 4 and expanding upon them to create one query that would ideally give me an idea of what skills would be optimal for my growth.
 
