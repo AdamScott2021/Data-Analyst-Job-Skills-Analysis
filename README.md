@@ -18,10 +18,15 @@ The data I used Hails from Luke Barousse (https://www.lukebarousse.com/sql) Whic
 # -- Tools I Used --
 
 **SQL**: The backbone of my analysis! this allowed me to extract valuable insights to the questions stated above.
+
 **PostgreSQL**: The database management system I'm the most comfortable using
+
 **Visual Studio Code**: My go-to IDE for database management and executing these SQL queries
+
 **PyCharm**: My preferred Python IDE for development. I mainly use this platform for Non-SQL related development
+
 **MatPlotLib**: A PHENOMENAL library I used to plot the data I extracted from the database into histograms you'll see below
+
 **Git & GitHub**: Essential for version control and sharing my work while also ensuring collaboration and project tracking
 
 # -- The Analysis --
