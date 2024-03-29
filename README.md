@@ -5,7 +5,7 @@ While diving head on into the job market of Data Analytics I wanted to focus on 
 
 Driven by my need to become more proficient using SQL for Data Analysis while entering the job market, it's logical to do an analysis on the job market itself!
 
-The data I used Hails from Luke Barousse (https://www.lukebarousse.com/sql) Which was a data set he compiled that's packed with valuable insights waiting for anyone to stumble upon. The data set includes insights on job titles, salaries, locations, and essential skills required for each position from all around the world!
+The data I used comes from Luke Barousse (https://www.lukebarousse.com/sql) Which was a data set he compiled that's packed with valuable insights waiting for anyone to stumble upon. The data set includes insights on job titles, salaries, locations, and essential skills required for each position from all around the world!
 
 ### -- The Questions I Wanted Answers To --
 
@@ -234,6 +234,6 @@ In Conclusion, It seems clear that SQL, Python, Excel, R, Power BI, and Tableau 
 
 ### --Closing Thoughts--
 
-I want to thank Luke Barousse for putting together such an informative and helpful course. It enabled me to be able to excel. Id highly recommend anyone to check him out at www.lukebarousse.com, This was fun and i thank you greatly for the experience. 
+I want to thank Luke Barousse for putting together such an informative and helpful course. It enabled me to be able to excel. Id highly recommend anyone to check him out at www.lukebarousse.com, This was fun and I thank you greatly for the experience. 
 
 To some, Data Analysis may seem boring and mundane. When you have a question that you just cant stop thinking about it's imperative to understand that with a bit of data you can likely find online, critical thinking, and a determination to power through a learning curve, you can actually find some extremely valuable insights and experience. Data is Beautiful, truly. It's literally the most powerful and priceless commodity we have in our current society and most people take it for granted. I would encourage anyone to explore this field at least a little bit, you might find the answer to questions you're looking for and better yet, answers to questions you didn't even know you wanted to ask. Thanks for reading, Random Human. 
