@@ -184,7 +184,7 @@ WITH skills_demand AS (
         AND job_location LIKE '%Tampa,_FL%'
         AND salary_year_avg IS NOT NULL
     GROUP BY
-        skills_dim.skill_id, skills_dim.skills -- Added skills_dim.skills here
+        skills_dim.skill_id, skills_dim.skills
     LIMIT 25
 ),
 average_salary AS (
@@ -201,7 +201,7 @@ average_salary AS (
         AND job_location LIKE '%Tampa,_FL%'
         AND salary_year_avg IS NOT NULL
     GROUP BY
-        skills_dim.skill_id, skills_dim.skills -- Added skills_dim.skills here
+        skills_dim.skill_id, skills_dim.skills
     LIMIT 25
 )
 
