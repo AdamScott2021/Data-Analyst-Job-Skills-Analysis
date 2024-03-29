@@ -125,7 +125,7 @@ ORDER BY
 LIMIT 5
 ```
 
-![Demand For Each Skill](relative path here)
+![Demand For Each Skill](https://github.com/AdamScott2021/Data-Analyst-Job-Skills-Analysis/blob/main/Question%203%20Histogram.jpg)
 
 Now that I knew what skills were the most in demand for the job market, I began to question what skills were associated with higher salaries overall.
 
@@ -154,7 +154,7 @@ ORDER BY
 LIMIT 25
 ```
 
-![Average Salary For Each Skill](relative path here)
+![Average Salary For Each Skill](https://github.com/AdamScott2021/Data-Analyst-Job-Skills-Analysis/blob/main/Question%204%20Histogram.jpg)
 
 At this point I thought that I would be done, my understanding of the job market would be complete and I could say for certain that I now had answered all the questions I needed. It didn't feel right though. It felt like I still hadn't understood exactly what I set out to understand.
 
@@ -214,7 +214,7 @@ ORDER BY
 LIMIT 25
 ```
 
-![Demand For Optimal Skill](relative path here)
+![Demand For Optimal Skill](https://github.com/AdamScott2021/Data-Analyst-Job-Skills-Analysis/blob/main/Question%205%20Histogram.jpg)
 
 At this point, I was satisfied. I'd identified what skills would be the most beneficial for my career as I entered into the Data Analytics job market. It is clear that a deep proficiency with SQL and Python would be most beneficial for me as well as using Tableau or Power BI to visualize the data in a meaningful way. Understanding R better is also helpful but I choose to rely on Python for its versatility beyond Data Analysis. Its interesting that Python libraries such as Pandas and NumPy seemed to be so low on the list but fortunately, I was already proficient with using them both. 
 
