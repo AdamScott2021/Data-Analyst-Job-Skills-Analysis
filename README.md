@@ -96,7 +96,7 @@ INNER JOIN skills_dim ON skills_job_dim.skill_id = skills_dim.skill_id
 ORDER BY
     skills DESC
 ```
-![Average Salary Based On Skill](relative path here)
+![Average Salary Based On Skill](https://github.com/AdamScott2021/Data-Analyst-Job-Skills-Analysis/blob/main/Question%202%20Histogram.jpg)
 
 
 This data allowed me to visualize which skills are related to each position, giving me insights as to what skills might be most beneficial for me to focus on. What was interesting to me was that many of these skills had relatively similar salary compensation hovering around $100,000 annually with the exception of JavaScript pulling in around $125,000. This data wasn't the most refined but brought up another question...Which skills are most in demand for Data Analyst positions? While knowing what skills are required for the top paying jobs, I figured it might be smart to delve into the concept of demand.
