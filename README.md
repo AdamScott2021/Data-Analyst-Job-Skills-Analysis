@@ -1,7 +1,7 @@
-#-- Introduction --
+# -- Introduction --
 While diving head on into the job market of Data Analytics I wanted to focus on Data Analyst roles in the Tampa Bay area, specifically because I wanted to gain some insights regarding what would be the most productive and beneficial skills to improve upon. These insights would be based on exploring top paying jobs, in demand skills, and where high demand meets high salary within Tampa Bay in the Data Analytics field.    
 
-#-- Background --
+# -- Background --
 
 Driven by my need to become more proficient using SQL for Data Analysis while entering the job market, it's logical to do an analysis on the job market itself!
 
@@ -15,7 +15,7 @@ The data I used Hails from Luke Barousse (https://www.lukebarousse.com/sql) Whic
 4) Which skills are associated with higher salaries?
 5) What are the optimal skills to learn or improve upon?
 
-#-- Tools I Used --
+# -- Tools I Used --
 
 **SQL**: The backbone of my analysis! this allowed me to extract valuable insights to the questions stated above.
 **PostgreSQL**: The database management system I'm the most comfortable using
@@ -24,7 +24,7 @@ The data I used Hails from Luke Barousse (https://www.lukebarousse.com/sql) Whic
 **MatPlotLib**: A PHENOMENAL library I used to plot the data I extracted from the database into histograms you'll see below
 **Git & GitHub**: Essential for version control and sharing my work while also ensuring collaboration and project tracking
 
-#-- The Analysis --
+# -- The Analysis --
 
 ###Question 1 -  What were the top paying Data Analyst positions in Tampa Bay area?
 
@@ -215,14 +215,14 @@ LIMIT 25
 At this point, I was satisfied. I'd identified what skills would be the most beneficial for my career as I entered into the Data Analytics job market. It is clear that a deep proficiency with SQL and Python would be most beneficial for me as well as using Tableau or Power BI to visualize the data in a meaningful way. Understanding R better is also helpful but I choose to rely on Python for its versatility beyond Data Analysis. Its interesting that Python libraries such as Pandas and NumPy seemed to be so low on the list but fortunately, I was already proficient with using them both. 
 
 
-#What I learned
+# --What I learned--
 
 Overall, I was able to identify trends and specifics related to the job market in my area. I find this important because, well...to me it seems a bit useless to understand a job market that you're not involved in (unless im looking for remote work specifically). Beyond that, the most important take-away, to me at least, is that I became more proficient in using SQL and VS Code. It taught me how to think more critically and analytically in order to retrieve the data (and answers) I needed. Additionally, it gave me more experience in platforms that I wasn't exactly the most proficient in.  
 
-#Conclusions
+# --Conclusions--
 
 In Conclusion, It seems clear that SQL, Python, Excel, R, Power BI, and Tableau are all invaluable skills to be proficient in here in Tampa, FL. It never really dawned on me that certain geographical areas might put higher value on different skills but to me, its clear that this is the case. Overall, I plan to go deeper with other questions I have pertaining to completely different fields of study. In my pursuit for expert level proficiency using SQL, there will be many more databases I intend to query. Alongside this, I plan to integrate my proficiency with Python, NumPy, and Pandas into the equation and see what I can do. This certainly was a learning experience but I feel far more comfortable than I did prior to starting this project. 
 
-###Closing Thoughts
+### --Closing Thoughts--
 
 This was fun. To some, it may seem boring and mundane but when you have a question that you just cant stop thinking about it's imperative to understand that with a bit of data you can likely find online pretty easily, critical thinking, and a determination to power through a learning curve, you can actually find some extremely valuable insights. Data is Beautiful, truly. It's literally the most powerful and priceless commodity we have in our current society and most people take it for granted. I would encourage anyone to explore this field at least a little bit, you might find the answer to questions you're looking for and better yet, answers to questions you didn't even know you wanted to ask. Thanks for reading, Random Human. 
