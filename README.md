@@ -56,7 +56,7 @@ LIMIT 10
 
 Below is a histogram of the data the SQL query provided me.
 
-![Top Salaries by Company Name](relative path here)
+![Top Salaries by Company Name](https://github.com/AdamScott2021/Data-Analyst-Job-Skills-Analysis/blob/main/Question%201%20histogram.jpg)
 
 This answered my first question, great! But it wasn't necessarily helpful toward my goal of understanding the job market I was entering into. I decided to dive deeper into this which is what prompted me to go on to answer my next question...What skills are required for these positions?
 
