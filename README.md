@@ -61,6 +61,7 @@ Below is a histogram of the data the SQL query provided me.
 This answered my first question, great! But it wasn't necessarily helpful toward my goal of understanding the job market I was entering into. I decided to dive deeper into this which is what prompted me to go on to answer my next question...What skills are required for these positions?
 
 
+
 ### Question 2 - What skills are required for these positions?
 
 The query below involved extracting data from two tables using a Left Join in order to match skills to each position listed from question 1. Doing this would allow me to visualize what skills are associated with the top paying jobs.
@@ -101,6 +102,7 @@ ORDER BY
 This data allowed me to visualize which skills are related to each position, giving me insights as to what skills might be most beneficial for me to focus on. What was interesting to me was that many of these skills had relatively similar salary compensation hovering around $100,000 annually with the exception of JavaScript pulling in around $125,000. This data wasn't the most refined but brought up another question...Which skills are most in demand for Data Analyst positions? While knowing what skills are required for the top paying jobs, I figured it might be smart to delve into the concept of demand.
 
 
+
 ### Question 3 - What skills are most in demand for Data Analyst positions?
 
 Doing some more digging (and a little more SQL coding) I came up with a way to extract what skills were required for jobs from the previous result set. Using that data i would be able to aggregate which skills are most in demand for Data Analysts. 
@@ -126,6 +128,7 @@ LIMIT 5
 ![Demand For Each Skill](relative path here)
 
 Now that I knew what skills were the most in demand for the job market, I began to question what skills were associated with higher salaries overall.
+
 
 
 ### Question 4 - Which skills are associated with higher salaries?
@@ -154,6 +157,7 @@ LIMIT 25
 ![Average Salary For Each Skill](relative path here)
 
 At this point I thought that I would be done, my understanding of the job market would be complete and I could say for certain that I now had answered all the questions I needed. It didn't feel right though. It felt like I still hadn't understood exactly what I set out to understand.
+
 
 
 ### Question 5 - What are the optimal skills to learn or improve upon?
